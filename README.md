@@ -1,5 +1,5 @@
-## Hi there, I am Ishan Savani 👋
-# Full-Stack Developer 💻
+# Hi there, I am Ishan Savani 👋
+## Full-Stack Developer 💻
 <!--
 **ishansavani/ishansavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
